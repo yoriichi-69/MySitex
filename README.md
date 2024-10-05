@@ -1,7 +1,6 @@
 <h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Shreesaanth</h1>
 
 
-![Header Image]
 ![static-assets-upload911846178221421294](https://github.com/user-attachments/assets/f4705100-a882-48cc-afc1-8c0778c546cf)
 
 
@@ -13,7 +12,7 @@ I like to learn new things xD
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Find Me Online </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
  style="color: #2980b9;">@shreesaanth.wav</a></li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/yoriichi-69" style="color: #2980b9;">@abhijit-23blaze</a></li>
+  <li><strong>GitHub</strong>: <a href="https://github.com/yoriichi-69" style="color: #2980b9;">@yoriichi-69</a></li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
@@ -21,7 +20,7 @@ I like to learn new things xD
   <li>I'm a night owl 🌙</li>
   <li>Podcasts = relaxation 🎧</li>
   <li>Finance👽</li>
-  <li>Futbol</li>
+  <li>Futbol⚽</li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
